@@ -7,3 +7,6 @@
 
 
 - http://localhost:8080/limits
+
+
+![](images/spring_cloud_config_server.png)
